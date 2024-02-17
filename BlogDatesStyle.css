@@ -1,0 +1,47 @@
+html{
+    background-color: #020107de;
+    background-image: url("black-polygonal-triangular-mosaic-background-for-web-presentations-and-prints-vector-illustration-400-235408443.jpg");
+    background-size: cover; 
+    
+}
+
+table, td{
+    position: relative;
+    width:700px ;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.178);
+  
+}
+
+tr {
+    color: white;
+    height: auto;
+    margin: 50px;
+}
+h2{
+    color: white;
+    font-size: 50px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width:850px;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 5px rgb(68, 177, 240) ;
+    padding: 10px;
+    position:absolute;
+    top: 5px;
+    left: 300px;
+}
+li {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 50px;
+}
+
+ul#list, h1{
+    font-size: 30px;
+}
